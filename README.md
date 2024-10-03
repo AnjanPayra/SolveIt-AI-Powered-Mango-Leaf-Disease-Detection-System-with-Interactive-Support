@@ -3,7 +3,7 @@ suru se suru karte hain ...
 
 
 Here right Now only have mango leaf Disease Detaction (increase other things on actual project)
-1. Get demo data *****(In my pc path is C:\SolveIt\Traning\Plants) (Tui khoj tor kotha ache )
+1. Get demo data *****(In my pc path is C:\SolveIt\Traning\Plants) 
    1. Download the data from kaggle.
    2. (I download this one https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset)
    3. I don't Have GPU so i run it on Jupyter Notebook.(and it takes appx 4hr to train the model)
@@ -29,8 +29,7 @@ our model predict any thing from this using Its own analysis
  backend Using FastAPI & TF Serve ***
 {  TF serving : https://www.youtube.com/watch?v=P-5sMcpTE0g 
     FastAPI : https://www.youtube.com/watch?v=Wr1JjhTt1Xg 
-    }(easily bojhano ache dekte paris )
-
+    }
 Testing the work I use PostmanAPI ****
 
 Frontend & Extra cariculam activities  ::::: Loading...... 😅
